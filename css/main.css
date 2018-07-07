@@ -16,3 +16,8 @@ li {
      padding: 8px;
    
  }
+footer {
+    margin: auto;
+    width:50%;
+    boader-top-style: solid; 
+    padding: 10px;}
