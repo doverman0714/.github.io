@@ -19,5 +19,6 @@ li {
 footer {
     margin: auto;
     width:50%;
-    boader-top-style: solid; 
+    boader-top: 5px solid gray; 
+    boader
     padding: 10px;}
