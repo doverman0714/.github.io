@@ -1,4 +1,6 @@
-#blurb {float: left;}
+#blurb {
+  display: block;
+  float: left;}
 ul {
 list-style-type: none;
   margin: 0;
